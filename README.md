@@ -10,7 +10,8 @@
 
 ----------------------------------
 ### I made this menu in october based on [TempleHook](https://github.com/notbemji/templehook)'s menu when i was bored.
-### This will not be updated or any more features added.
+### This will not be updated.
+
 ----------------------------------
 
 ## Menu Functionality
